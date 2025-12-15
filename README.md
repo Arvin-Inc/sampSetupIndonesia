@@ -1,6 +1,6 @@
 # 🇮🇩 sampSetupIndonesia - GTA SA:MP Ready-to-Play
 
-![SA:MP Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SAMP_logo.svg/1200px-SAMP_logo.svg.png)
+![SA:MP Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SAMP_logo.svg/1200px-SAMP_logo.svg.png](https://images.igdb.com/igdb/image/upload/t_cover_big/co9puv.webp))
 
 ## 📖 Tentang Repositori Ini
 
@@ -25,15 +25,6 @@ Silakan unduh file *Full Client* melalui link berikut:
 * **SA:MP Client Terinstal:** Sudah termasuk klien SA:MP versi stabil.
 * **Voice Plugin Ready:** Sudah terpasang plugin voice (Support SampVoice).
 * **Ringan & Bersih:** Game original tanpa mod berat, cocok untuk PC Low-Mid end.
-* **Support Bahasa Indonesia:** Kompatibel dengan font dan chat server lokal.
-
-## 🛠️ Persyaratan Sistem (Minimum)
-
-Pastikan PC/Laptop kamu memiliki:
-* **OS:** Windows 7/10/11
-* **RAM:** 2GB (4GB disarankan)
-* **DirectX:** Versi 9.0c (Wajib diinstal agar tidak crash)
-* **Ruang Penyimpanan:** Minimal 4GB - 5GB kosong.
 
 ## 🚀 Cara Instalasi
 
@@ -44,22 +35,7 @@ Pastikan PC/Laptop kamu memiliki:
     Gunakan **WinRAR** atau **7-Zip**.
     * Klik kanan pada file `.rar` / `.zip` yang baru didownload.
     * Pilih `Extract Here` atau `Extract to sampSetupIndonesia/`.
-    * *Saran: Simpan folder hasil ekstrak di drive `D:/Games` agar aman.*
-
-3.  **Setting Nickname:**
-    * Buka folder hasil ekstrak.
-    * Cari file bernama `samp.exe` (ikon wanita).
-    * Di bagian atas aplikasi, isi kolom **Name** dengan format Roleplay (contoh: `Nama_Depan_Nama_Belakang`) atau nickname sesuai server tujuanmu.
-
-4.  **Mulai Bermain:**
-    * Masukkan IP Server Indonesia favoritmu (Klik tombol centang oranye `Add Server`).
-    * Klik dua kali pada server, lalu pilih **Connect**.
-
-## 🎤 Cara Mengatur Voice Chat
-
-Jika server mendukung Voice Chat, plugin akan aktif otomatis.
-* Tekan **F11** (default) saat di dalam game untuk membuka menu mikrofon.
-* Pastikan mikrofon kamu terdeteksi dan volume sudah sesuai.
+    * *Saran: Simpan hasil ekstrak di `C:/buat_folder_bebas` *
 
 ## ⚠️ Masalah Umum (Troubleshooting)
 
@@ -69,12 +45,4 @@ Jika server mendukung Voice Chat, plugin akan aktif otomatis.
 * **Minta CD/DVD:**
     * Pastikan kamu membuka game melalui `samp.exe`, bukan `gta_sa.exe`.
 
-## 🤝 Kontribusi & Update
-
-Repositori ini hanya digunakan untuk:
-* Dokumentasi dan Panduan.
-* Melaporkan masalah (lewat tab **Issues**).
-* Update link download jika ada versi baru.
-
 ---
-*Dibuat dengan ❤️ untuk komunitas SA:MP Indonesia.*
