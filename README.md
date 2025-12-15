@@ -1,6 +1,6 @@
 # 🇮🇩 sampSetupIndonesia - GTA SA:MP Ready-to-Play
 
-![SA:MP Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SAMP_logo.svg/1200px-SAMP_logo.svg.png](https://images.igdb.com/igdb/image/upload/t_cover_big/co9puv.webp))
+![SA:MP Logo](https://th.bing.com/th/id/OIP.yEQAcC7ZHz0h-NI6VYhpuQHaEK?w=297&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.5&pid=1.7&rm=3&ucfimg=1)
 
 ## 📖 Tentang Repositori Ini
 
