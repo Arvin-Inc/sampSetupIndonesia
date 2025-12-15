@@ -15,7 +15,7 @@ Paket ini sudah termasuk **Voice Chat Plugin** yang terintegrasi, sehingga kamu 
 Silakan unduh file *Full Client* melalui link berikut:
 
 ### [🔗 DOWNLOAD VIA GOOGLE DRIVE (1 GB)]
-*(Ganti teks ini dengan Link Google Drive kamu)*
+[Download](https://drive.google.com/drive/folders/1fPwdvi9EvyFMBm7abgFmTD2LGeumw3A1?usp=drive_link)
 
 ---
 
